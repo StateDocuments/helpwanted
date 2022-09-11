@@ -1,7 +1,9 @@
 # Help Wanted
 
-Documents Security Manager, 
+Documents Security Manager
+
 Documents Storage Sales
+
 Documents Appraiser: Determine the value of documents on open market.
 
 
